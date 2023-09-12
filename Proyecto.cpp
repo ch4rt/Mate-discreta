@@ -87,7 +87,7 @@ int main() {
                 }
             }
 
-            //literal 2
+            //literal 2 nada, nada//
             
             if (i > 0) {
                 cout << literal2_;

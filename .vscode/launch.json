@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/josue/OneDrive/Documentos/Proyectos/Mate discreta",
-      "program": "c:/Users/josue/OneDrive/Documentos/Proyectos/Mate discreta/build/Debug/outDebug",
+      "cwd": "c:/Users/josue/OneDrive/Documentos/Proyectos/Mate discreta/Mate-discreta",
+      "program": "c:/Users/josue/OneDrive/Documentos/Proyectos/Mate discreta/Mate-discreta/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
